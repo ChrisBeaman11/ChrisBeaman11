@@ -13,6 +13,6 @@ I am a software engineer skilled with creating full-stack web applications, with
 * 🌍  I'm based in West Virginia
 * 🖥️  See my portfolio at [here](http://https://chrisbeaman11.github.io/ChrisBeamanPortfolio/)
 * ✉️  You can contact me at [chrisbeaman97@gmailcom](mailto:chrisbeaman97@gmailcom)
-* 🚀  I'm currently working on [a yelp type website.](chris-yelp.onrender.com/)
-* 🚀  I'm also currently working on [an airbnb type website.](chris-staybnb.onrender.com/)
+* 🚀  I'm currently working on [a yelp type website.](http://chris-yelp.onrender.com/)
+* 🚀  I'm also currently working on [an airbnb type website.](http://chris-staybnb.onrender.com/)
 * 🧠  I'm learning I am expanding on Java currently.

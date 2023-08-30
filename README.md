@@ -1,16 +1,13 @@
-### Hi there 👋
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Chris Beaman
+====================================================================================================================================
 
-<!--
-**ChrisBeaman11/ChrisBeaman11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software Engineer
+-----------------
 
-Here are some ideas to get you started:
+I am a software engineer skilled with creating full-stack web applications, with a passion to build.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* 🌍  I'm based in West Virginia
+* 🖥️  See my portfolio at [here](http://https://chrisbeaman11.github.io/ChrisBeamanPortfolio/)
+* ✉️  You can contact me at [chrisbeaman97@gmailcom](mailto:chrisbeaman97@gmailcom)
+* 🚀  I'm currently working on [a yelp type website.](http://https://chris-yelp.onrender.com/)
+* 🧠  I'm learning I am expanding on Java currently.

@@ -14,4 +14,5 @@ I am a software engineer skilled with creating full-stack web applications, with
 * 🖥️  See my portfolio at [here](http://https://chrisbeaman11.github.io/ChrisBeamanPortfolio/)
 * ✉️  You can contact me at [chrisbeaman97@gmailcom](mailto:chrisbeaman97@gmailcom)
 * 🚀  I'm currently working on [a yelp type website.](http://https://chris-yelp.onrender.com/)
+*  🚀  I'm also currently working on [an airbnb type website.]([http://https://chris-yelp.onrender.com/](https://chris-staybnb.onrender.com/))
 * 🧠  I'm learning I am expanding on Java currently.

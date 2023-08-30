@@ -3,7 +3,8 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 Software Engineer
 -----------------
-
+                        About me:
+  My name is Chris Beaman, I am from West Virginia and am always looking for projects to work on.  
 I am a software engineer skilled with creating full-stack web applications, with a passion to build.
 
 * 🌍  I'm based in West Virginia
